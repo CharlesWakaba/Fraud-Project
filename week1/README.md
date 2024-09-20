@@ -9,9 +9,6 @@ This week focused on setting up the project and defining its scope.
 - Established project timeline and success criteria
 
 ## Key Files
-- project_charter.md
-- requirements.txt
-- setup_environment.py
+- setup_environment.py: Script to set up the Python environment
+- requirements.txt: List of required Python packages
 
-## Code
-The 'setup_environment.py' script sets up the Python environment for the project.
